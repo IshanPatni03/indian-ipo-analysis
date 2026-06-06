@@ -1,0 +1,370 @@
+full_company_name,year,listing_day,current_return,ipo_category
+"Interarch Building Products Ltd.",2024,32.86,98.52,Average
+"Innova Captab Ltd.",2023,20.85,94.59,Average
+"Diffusion Engineers Ltd.",2024,20.93,93.12,Average
+"J.G.Chemicals Ltd.",2024,-16.45,91.02,Average
+"Billionbrains Garage Ventures Ltd.",2025,31.33,90.05,Average
+"Vidya Wires Ltd.",2025,2.25,89.52,Average
+"Zinka Logistics Solutions Ltd.",2024,-4.74,88.90,Average
+"Indiqube Spaces Ltd.",2025,-8.03,88.50,Average
+"GNG Electronics Ltd.",2025,40.67,88.50,Average
+"Electronics Mart India Ltd.",2022,43.22,85.85,Average
+"eMudhra Ltd.",2022,0.74,82.91,Average
+"Shreeji Shipping Global Ltd.",2025,1.23,82.58,Average
+"Macrotech Developers Ltd.",2021,-4.27,81.45,Average
+"Rategain Travel Technologies Ltd.",2021,-19.99,81.33,Average
+"Jyoti CNC Automation Ltd.",2024,31.18,80.56,Average
+"Jupiter Life Line Hospitals Ltd.",2023,46.36,79.47,Average
+"Garuda Construction & Engineering Ltd.",2024,11.96,79.11,Average
+"Aether Industries Ltd.",2022,20.62,78.01,Average
+"Park Medi World Ltd.",2025,-8.67,76.48,Average
+"Windlas Biotech Ltd.",2021,-11.49,76.20,Average
+"Ratnaveer Precision Engineering Ltd.",2023,31.99,74.08,Average
+"Rashi Peripherals Ltd.",2024,3.38,73.46,Average
+"Gala Precision Engineering Ltd.",2024,43.13,73.13,Average
+"Veranda Learning Solutions Ltd.",2022,-4.20,73.10,Average
+"Emcure Pharmaceuticals Ltd.",2024,34.84,73.09,Average
+"Cyient DLM Ltd.",2023,58.72,72.81,Average
+"Stove Kraft Ltd.",2021,15.83,69.42,Average
+"UTI Asset Management Co.Ltd.",2020,-14.04,67.69,Average
+"Concord Biotech Ltd.",2023,27.23,67.04,Average
+"BLS E-Services Ltd.",2024,171.11,66.70,Average
+"Le Travenues Technology Ltd.",2024,78.19,64.46,Average
+"SBFC Finance Ltd.",2023,61.75,63.70,Average
+"Happy Forgings Ltd.",2023,21.27,63.40,Average
+"Corona Remedies Ltd.",2025,35.44,60.26,Average
+"Borana Weaves Ltd.",2025,18.13,57.18,Average
+"PB Fintech Ltd.",2021,22.68,56.84,Average
+"Latent View Analytics Ltd.",2021,148.10,55.41,Average
+"India Shelter Finance Corp.Ltd.",2023,10.49,54.74,Average
+"Fujiyama Power Systems Ltd.",2025,-8.58,54.67,Average
+"ASK Automotive Ltd.",2023,9.96,54.36,Average
+"Jain Resource Recycling Ltd.",2025,37.09,54.14,Average
+"Mamata Machinery Ltd.",2024,159.26,52.96,Average
+"ICICI Prudential Asset Management Co.Ltd.",2025,19.44,52.94,Average
+"Emmvee Photovoltaic Power Ltd.",2025,1.11,51.68,Average
+"Vishal Mega Mart Ltd.",2024,43.50,51.60,Average
+"Route Mobile Ltd.",2020,86.09,50.61,Average
+"Tata Technologies Ltd.",2023,162.60,49.76,Average
+"Aadhar Housing Finance Ltd.",2024,4.59,49.06,Average
+"Meesho Ltd.",2025,53.23,49.01,Average
+"Gland Pharma Ltd.",2020,21.30,48.06,Average
+"Tamilnad Mercantile Bank Ltd.",2022,-0.07,46.73,Average
+"Tenneco Clean Air India Ltd.",2025,23.63,46.66,Average
+"Aditya Birla Sun Life AMC Ltd.",2021,-1.76,45.45,Average
+"Aequs Ltd.",2025,22.01,45.32,Average
+"Glenmark Life Sciences Ltd.",2021,3.96,43.88,Average
+"Nephrocare Health Services Ltd.",2025,2.45,43.76,Average
+"Antony Waste Handling Cell Ltd.",2021,29.32,41.41,Average
+"CMS Info Systems Ltd.",2021,10.28,41.25,Average
+"EMS Ltd.",2023,32.65,39.83,Average
+"Unimech Aerospace & Manufacturing Ltd.",2024,75.32,39.43,Average
+"Blue Jet Healthcare Ltd.",2023,19.48,37.51,Average
+"Sagility India Ltd.",2024,-2.27,33.77,Average
+"ideaForge Technology Ltd.",2023,92.70,33.72,Average
+"TBO Tek Ltd.",2024,52.86,32.82,Average
+"SAMHI Hotels Ltd.",2023,13.81,32.78,Average
+"Sah Polymers Ltd.",2023,37.31,32.75,Average
+"Divgi TorqTransfer Systems Ltd.",2023,2.58,32.66,Average
+"LG Electronics India Ltd.",2025,48.24,32.46,Average
+"Prostarm Info Systems Ltd.",2025,20.00,32.05,Average
+"Archean Chemical Industries Ltd.",2022,12.57,30.93,Average
+"Anthem Biosciences Ltd.",2025,28.13,30.80,Average
+"Sigachi Industries Ltd.",2021,267.18,30.12,Average
+"Canara HSBC Life Insurance Co.Ltd.",2025,5.11,28.87,Average
+"HDB Financial Services Ltd.",2025,19.01,28.72,Average
+"Honasa Consumer Ltd.",2023,4.04,28.63,Average
+"Lenskart Solutions Ltd.",2025,0.27,27.60,Average
+"Shringar House of Mangalsutra Ltd.",2025,12.05,27.55,Average
+"Anand Rathi Share & Stock Brokers Ltd.",2025,7.62,27.40,Average
+"Platinum Industries Ltd.",2024,29.36,26.43,Average
+"RBZ Jewellers Ltd.",2023,5.00,25.95,Average
+"Laxmi Organic Industries Ltd.",2021,26.50,23.92,Average
+"Sanathan Textiles Ltd.",2024,20.98,23.19,Average
+"Zaggle Prepaid Ocean Services Ltd.",2023,-3.45,22.93,Average
+"Sanstar Ltd.",2024,21.13,20.74,Average
+"ACME Solar Holdings Ltd.",2024,-12.40,19.78,Average
+"CarTrade Tech Ltd.",2021,-7.23,18.19,Average
+"Midwest Ltd.",2025,7.09,17.60,Average
+"Dharmaj Crop Guard Ltd.",2022,12.36,17.09,Average
+"Rishabh Instruments Ltd.",2023,0.49,16.76,Average
+"Travel Food Services Ltd.",2025,-2.29,16.75,Average
+"Fedbank Financial Services Ltd.",2023,0.18,15.96,Average
+"Dr.Agarwal's Health Care Ltd.",2025,-0.09,15.68,Average
+"Transrail Lighting Ltd.",2024,28.14,15.57,Average
+"Gujarat Kidney & Super Speciality Ltd.",2025,-8.30,15.00,Average
+"Indegene Ltd.",2024,26.31,14.54,Average
+"Jana Small Finance Bank Ltd.",2024,-11.07,14.08,Average
+"Shanti Gold International Ltd.",2025,15.27,12.11,Average
+"Go Digit General Insurance Ltd.",2024,12.50,11.29,Average
+"Smartworks Coworking Spaces Ltd.",2025,9.35,10.59,Average
+"Niva Bupa Health Insurance Co.Ltd.",2024,0.03,10.51,Average
+"Angel Broking Ltd.",2020,-9.87,10.23,Average
+"Northern Arc Capital Ltd.",2024,22.97,10.13,Average
+"Uniparts India Ltd.",2022,-6.47,8.37,Average
+"Amanta Healthcare Ltd.",2025,12.50,5.79,Average
+"BlueStone Jewellery & Lifestyle Ltd.",2025,5.61,3.50,Average
+"National Securities Depository Ltd.",2025,17.00,3.48,Average
+"Euro Pratik Sales Ltd.",2025,0.49,3.02,Average
+"Trualt Bioenergy Ltd.",2025,7.05,1.23,Average
+"Advance Agrolife Ltd.",2025,8.30,1.10,Average
+"Saatvik Green Energy Ltd.",2025,-5.23,0.10,Average
+"Epack Prefab Technologies Ltd.",2025,-6.54,0.02,Average
+"Ventive Hospitality Ltd.",2024,9.54,-0.68,Average
+"Hyundai Motor India Ltd.",2024,-7.16,-1.39,Average
+"Standard Glass Lining Technology Ltd.",2025,16.63,-2.04,Average
+"Kronox Lab Sciences Ltd.",2024,17.15,-2.39,Average
+"Pyramid Technoplast Ltd.",2023,7.02,-2.44,Average
+"WeWork India Management Ltd.",2025,-2.99,-2.74,Average
+"EPACK Durable Ltd.",2024,-9.74,-3.11,Average
+"Manba Finance Ltd.",2024,26.88,-3.46,Average
+"Schloss Bangalore Ltd.",2025,0.13,-3.89,Average
+"Ajax Engineering Ltd.",2025,-5.34,-4.28,Average
+"Tata Capital Ltd.",2025,1.38,-4.34,Average
+"NTPC Green Energy Ltd.",2024,12.64,-6.62,Average
+"Canara Robeco Asset Management Co.Ltd.",2025,12.95,-6.94,Average
+"GK Energy Ltd.",2025,9.63,-7.97,Average
+"Barbeque-Nation Hospitality Ltd.",2021,17.56,-8.07,Average
+"Five-Star Business Finance Ltd.",2022,3.38,-8.49,Average
+"Entero Healthcare Solutions Ltd.",2024,-8.62,-9.34,Average
+"Delhivery Ltd.",2022,10.13,-9.97,Average
+"Ceigall India Ltd.",2024,-3.55,-10.46,Average
+"Arkade Developers Ltd.",2024,29.58,-11.84,Average
+"Capillary Technologies India Ltd.",2025,5.11,-12.26,Average
+"Scoda Tubes Ltd.",2025,5.00,-12.36,Average
+"Crizac Ltd.",2025,25.56,-12.51,Average
+"Sambhv Steel Tubes Ltd.",2025,13.64,-12.93,Average
+"Baazar Style Retail Ltd.",2024,2.83,-13.16,Average
+"International Gemmological Institute (India) Ltd.",2024,12.99,-13.26,Average
+"JSW Cement Ltd.",2025,-0.63,-13.50,Average
+"Campus Activewear Ltd.",2022,29.76,-14.04,Average
+"Orkla India Ltd.",2025,-2.24,-14.08,Average
+"Medi Assist Healthcare Services Ltd.",2024,11.03,-14.15,Average
+"Pace Digitek Ltd.",2025,-0.46,-14.20,Average
+"Regaal Resources Ltd.",2025,29.00,-16.42,Average
+"All Time Plastics Ltd.",2025,3.02,-17.31,Average
+"Denta Water & Infra Solutions Ltd.",2025,16.07,-17.47,Average
+"Adani Wilmar Ltd.",2022,16.63,-17.67,Average
+"GPT Healthcare Ltd.",2024,7.90,-18.01,Average
+"Akums Drugs & Pharmaceuticals Ltd.",2024,17.27,-18.10,Average
+"Krystal Integrated Services Ltd.",2024,-0.30,-18.36,Average
+"Landmark Cars Ltd.",2022,-9.41,-18.46,Average
+"Aegis Vopak Terminals Ltd.",2025,2.98,-18.47,Average
+"Awfis Space Solutions Ltd.",2024,10.12,-19.37,Average
+"Godavari Biorefineries Ltd.",2024,-2.50,-19.99,Average
+"Kross Ltd.",2024,8.25,-20.25,Average
+"Protean eGov Technologies Ltd.",2023,11.49,-20.84,Average
+"Ivalue Infosolutions Ltd.",2025,-5.74,-21.56,Average
+"Fabtech Technologies Ltd.",2025,-4.50,-21.60,Average
+"Patel Retail Ltd.",2025,12.82,-21.84,Average
+"SBI Cards & Payment Services Ltd.",2020,-9.75,-21.89,Average
+"Jinkushal Industries Ltd.",2025,0.55,-21.98,Average
+"Sapphire Foods India Ltd.",2021,2.67,-23.43,Average
+"Kalpataru Ltd.",2025,4.58,-23.60,Average
+"Studds Accessories Ltd.",2025,-4.22,-24.87,Average
+"Shriram Properties Ltd.",2021,-15.59,-25.02,Average
+"Abans Holdings Ltd.",2022,-19.98,-25.17,Average
+"Hexaware Technologies Ltd.",2025,7.70,-25.29,Average
+"Carraro India Ltd.",2024,-9.63,-25.41,Average
+"Aptus Value Housing Finance India Ltd.",2021,-1.73,-25.50,Average
+"M&B Engineering Ltd.",2025,5.26,-26.26,Average
+"Vikran Engineering Ltd.",2025,-1.33,-26.49,Average
+"Excelsoft Technologies Ltd.",2025,4.98,-26.83,Average
+"Keystone Realtors Ltd.",2022,2.93,-27.32,Average
+"Manoj Vaibhav Gems 'N' Jewellers Ltd.",2023,0.23,-27.65,Average
+"Gopal Snacks Ltd.",2024,-9.55,-28.38,Average
+"Afcons Infrastructure Ltd.",2024,2.42,-29.48,Average
+"Brigade Hotel Ventures Ltd.",2025,-5.20,-31.17,Average
+"Indiqube Spaces Ltd.",2025,-8.03,-31.41,Average
+"Laxmi India Finance Ltd.",2025,-15.12,-31.42,Average
+"Yatra Online Ltd.",2023,-4.30,-31.83,Average
+"HP Adhesives Ltd.",2021,20.71,-32.21,Average
+"Jaro Institute of Technology Management & Research Ltd.",2025,-16.38,-32.57,Average
+"Udayshivakumar Infra Ltd.",2023,-10.00,-34.51,Average
+"Swiggy Ltd.",2024,16.92,-34.96,Average
+"Oswal Pumps Ltd.",2025,1.85,-35.06,Average
+"Vikram Solar Ltd.",2025,7.35,-35.32,Average
+"Ganesh Consumer Products Ltd.",2025,-8.60,-35.33,Average
+"Pine Labs Ltd.",2025,14.03,-35.50,Average
+"Seshaasai Technologies Ltd.",2025,-2.73,-36.32,Average
+"Suraksha Diagnostic Ltd.",2024,-5.39,-36.52,Average
+"Indo Farm Equipment Ltd.",2025,27.30,-36.67,Average
+"Om Freight Forwarders Ltd.",2025,-36.61,-37.44,Average
+"TVS Supply Chain Solutions Ltd.",2023,2.03,-37.69,Average
+"Muthoot Microfin Ltd.",2023,-8.54,-37.82,Average
+"Dev Accelerator Ltd.",2025,5.00,-38.28,Average
+"CAMS Ltd.",2020,13.95,-38.30,Average
+"Updater Services Ltd.",2023,-5.37,-39.02,Average
+"Vraj Iron & Steel Ltd.",2024,21.74,-39.66,Average
+"BMW Ventures Ltd.",2025,-25.15,-40.00,Average
+"Cello World Ltd.",2023,22.18,-40.47,Average
+"Wakefit Innovations Ltd.",2025,-1.39,-40.77,Average
+"Star Health & Allied Insurance Co.Ltd.",2021,0.76,-41.52,Average
+"Capital Small Finance Bank Ltd.",2024,-7.05,-41.75,Average
+"Mangal Electrical Industries Ltd.",2025,-4.57,-42.69,Average
+"Ola Electric Mobility Ltd.",2024,20.00,-43.04,Average
+"Krsnaa Diagnostics Ltd.",2021,3.46,-43.08,Average
+"Nuvoco Vistas Corp.Ltd.",2021,-6.72,-43.48,Average
+"Suryoday Small Finance Bank Ltd.",2021,-11.21,-43.80,Average
+"Juniper Hotels Ltd.",2024,11.53,-44.35,Average
+"Solarworld Energy Solutions Ltd.",2025,-7.91,-44.56,Average
+"Western Carriers (India) Ltd.",2024,-7.30,-45.40,Average
+"Exxaro Tiles Ltd.",2021,10.25,-45.50,Average
+"Laxmi Dental Ltd.",2025,28.63,-46.55,Average
+"Valiant Laboratories Ltd.",2023,21.61,-46.64,Average
+"India Pesticides Ltd.",2021,15.93,-47.65,Average
+"Suraj Estate Developers Ltd.",2023,-7.08,-47.89,Average
+"Arisinfra Solutions Ltd.",2025,-21.45,-48.18,Average
+"Indogulf Cropsciences Ltd.",2025,-0.59,-48.24,Average
+"IRM Energy Ltd.",2023,-6.31,-48.41,Average
+"Glottis Ltd.",2025,-35.12,-50.43,Average
+"One 97 Communications Ltd.",2021,-27.40,-50.78,Average
+"Sai Silks (Kalamandir) Ltd.",2023,10.32,-52.52,Average
+"Fusion Micro Finance Ltd.",2022,-11.74,-53.32,Average
+"VMS TMT Ltd.",2025,0.66,-53.33,Average
+"ESAF Small Finance Bank Ltd.",2023,15.08,-53.60,Average
+"Vedant Fashions Ltd.",2022,7.80,-53.79,Average
+"Gem Aromatics Ltd.",2025,-1.83,-53.95,Average
+"Elin Electronics Ltd.",2022,-7.83,-55.47,Average
+"Sula Vineyards Ltd.",2022,-7.23,-56.40,Average
+"Tolins Tyres Ltd.",2024,5.93,-56.75,Average
+"Life Insurance Corp.of India",2022,-7.77,-58.01,Average
+"Radiant Cash Management Services Ltd.",2023,11.38,-59.51,Average
+"Deepak Builders & Engineers India Ltd.",2024,-20.22,-59.81,Average
+"HMA Agro Industries Ltd.",2023,0.12,-60.50,Average
+"Tracxn Technologies Ltd.",2022,16.56,-61.46,Average
+"Global Surfaces Ltd.",2023,22.18,-61.58,Average
+"Stanley Lifestyles Ltd.",2024,28.66,-61.83,Average
+"Chemplast Sanmar Ltd.",2021,-1.00,-61.90,Average
+"Uma Exports Ltd.",2022,17.35,-63.22,Average
+"Concord Enviro Systems Ltd.",2024,17.99,-63.35,Average
+"Saraswati Saree Depot Ltd.",2024,27.31,-63.67,Average
+"R K SWAMY Ltd.",2024,-8.59,-64.58,Average
+"Shree Tirupati Balajee Agro Trading Co.Ltd.",2024,13.86,-64.92,Average
+"Popular Vehicles & Services Ltd.",2024,-6.39,-66.52,Average
+"Tarsons Products Ltd.",2021,23.63,-68.26,Average
+"Credo Brands Marketing Ltd.",2023,11.50,-68.69,Average
+"Heranba Industries Ltd.",2021,29.60,-72.49,Average
+"Nazara Technologies Ltd.",2021,-27.70,-75.54,Average
+"Fino Payments Bank Ltd.",2021,-5.74,-77.76,Average
+"Anlon Healthcare Ltd.",2025,0.80,-84.43,Average
+"Rolex Rings Ltd.",2021,29.67,-84.87,Average
+"Akme Fintrade (India) Ltd.",2024,11.13,-91.39,Average
+"Easy Trip Planners Ltd.",2021,11.47,-92.88,Average
+"AGS Transact Technologies Ltd.",2022,-7.97,-98.45,Average
+"MTAR Technologies Ltd.",2021,88.26,1248.92,"Both strong"
+"Netweb Technologies India Ltd.",2023,82.08,887.06,"Both strong"
+"Syrma SGS Technology Ltd.",2022,41.14,455.50,"Both strong"
+"KRN Heat Exchanger & Refrigeration Ltd.",2024,117.63,451.91,"Both strong"
+"Aditya Infotech Ltd.",2025,60.74,423.45,"Both strong"
+"Ami Organics Ltd.",2021,53.28,418.66,"Both strong"
+"Paras Defence & Space Technologies Ltd.",2021,181.40,408.37,"Both strong"
+"Tega Industries Ltd.",2021,60.28,313.23,"Both strong"
+"Aeroflex Industries Ltd.",2023,51.16,307.27,"Both strong"
+"Indian Renewable Energy Development Agency Ltd.",2023,87.50,285.16,"Both strong"
+"Supriya Lifescience Ltd.",2021,42.65,247.50,"Both strong"
+"Zomato Ltd.",2021,65.79,234.61,"Both strong"
+"DEE Development Engineers Ltd.",2024,65.18,216.33,"Both strong"
+"Hariom Pipe Industries Ltd.",2022,50.98,177.16,"Both strong"
+"DOMS Industries Ltd.",2023,67.85,168.72,"Both strong"
+"Senores Pharmaceuticals Ltd.",2024,42.47,166.74,"Both strong"
+"Bharti Hexacom Ltd.",2024,42.68,161.27,"Both strong"
+"Premier Energies Ltd.",2024,86.64,139.67,"Both strong"
+"JSW Infrastructure Ltd.",2023,32.18,129.33,"Both strong"
+"Inox India Ltd.",2023,42.42,128.22,"Both strong"
+"Happiest Minds Technologies Ltd.",2020,123.46,119.94,"Both strong"
+"Mankind Pharma Ltd.",2023,31.69,118.00,"Both strong"
+"Motisons Jewellers Ltd.",2023,88.27,115.09,"Both strong"
+"Stallion India Fluorochemicals Ltd.",2025,40.00,114.83,"Both strong"
+"Sai Life Sciences Ltd.",2024,39.28,111.28,"Both strong"
+"Waaree Energies Ltd.",2024,55.62,104.28,"Both strong"
+"Orient Technologies Ltd.",2024,46.80,28.18,"Listing hero, long-term flop"
+"Sudeep Pharma Ltd.",2025,30.55,27.68,"Listing hero, long-term flop"
+"Inventurus Knowledge Solutions Ltd.",2024,47.54,27.03,"Listing hero, long-term flop"
+"Devyani International Ltd.",2021,37.22,26.17,"Listing hero, long-term flop"
+"Enviro Infra Engineers Ltd.",2024,39.91,25.61,"Listing hero, long-term flop"
+"Rossari Biotech Ltd.",2020,74.51,23.92,"Listing hero, long-term flop"
+"Bansal Wire Industries Ltd.",2024,36.86,20.33,"Listing hero, long-term flop"
+"Urban Co.Ltd.",2025,61.97,19.81,"Listing hero, long-term flop"
+"Harsha Engineers International Ltd.",2022,47.42,19.53,"Listing hero, long-term flop"
+"Bajaj Housing Finance Ltd.",2024,135.71,19.16,"Listing hero, long-term flop"
+"P N Gadgil Jewellers Ltd.",2024,65.27,14.50,"Listing hero, long-term flop"
+"Burger King India Ltd.",2020,125.00,14.20,"Listing hero, long-term flop"
+"Quadrant Future Tek Ltd.",2025,53.10,11.98,"Listing hero, long-term flop"
+"Tatva Chintan Pharma Chem Ltd.",2021,113.50,9.95,"Listing hero, long-term flop"
+"Medplus Health Services Ltd.",2021,40.85,8.08,"Listing hero, long-term flop"
+"G R Infraprojects Ltd.",2021,108.73,4.03,"Listing hero, long-term flop"
+"Exicom Tele-Systems Ltd.",2024,58.42,2.39,"Listing hero, long-term flop"
+"JNK India Ltd.",2024,67.36,1.49,"Listing hero, long-term flop"
+"PhysicsWallah Ltd.",2025,42.42,-2.29,"Listing hero, long-term flop"
+"Gandhar Oil Refinery (India) Ltd.",2023,78.34,-4.11,"Listing hero, long-term flop"
+"DCX Systems Ltd.",2022,49.01,-4.64,"Listing hero, long-term flop"
+"Flair Writing Industries Ltd.",2023,48.32,-5.59,"Listing hero, long-term flop"
+"Plaza Wires Ltd.",2023,48.52,-11.02,"Listing hero, long-term flop"
+"Clean Science & Technology Ltd.",2021,76.14,-12.43,"Listing hero, long-term flop"
+"C.E.Info systems Ltd.",2021,34.91,-19.44,"Listing hero, long-term flop"
+"Unicommerce eSolutions Ltd.",2024,94.52,-19.56,"Listing hero, long-term flop"
+"Mukka Proteins Ltd.",2024,50.89,-21.57,"Listing hero, long-term flop"
+"Vibhor Steel Tubes Ltd.",2024,195.53,-23.71,"Listing hero, long-term flop"
+"Apeejay Surrendra Park Hotels Ltd.",2024,31.32,-25.03,"Listing hero, long-term flop"
+"One Mobikwik Systems Ltd.",2024,89.25,-30.09,"Listing hero, long-term flop"
+"Ellenbarrie Industrial Gases Ltd.",2025,33.65,-30.50,"Listing hero, long-term flop"
+"GNG Electronics Ltd.",2025,40.67,-31.41,"Listing hero, long-term flop"
+"Highway Infrastructure Ltd.",2025,72.50,-32.13,"Listing hero, long-term flop"
+"Nova AgriTech Ltd.",2024,40.85,-34.76,"Listing hero, long-term flop"
+"Indigo Paints Ltd.",2021,109.20,-35.85,"Listing hero, long-term flop"
+"Mrs.Bectors Food Specialities Ltd.",2020,106.32,-40.42,"Listing hero, long-term flop"
+"Go Fashion (India) Ltd.",2021,81.70,-41.54,"Listing hero, long-term flop"
+"Nureca Ltd.",2021,61.44,-41.85,"Listing hero, long-term flop"
+"Globe Civil Projects Ltd.",2025,33.04,-44.25,"Listing hero, long-term flop"
+"IKIO Lighting Ltd.",2023,41.70,-45.70,"Listing hero, long-term flop"
+"Chemcon Speciality Chemicals Ltd.",2020,72.00,-46.07,"Listing hero, long-term flop"
+"DAM Capital Advisors Ltd.",2024,46.68,-48.75,"Listing hero, long-term flop"
+"Utkarsh Small Finance Bank Ltd.",2023,92.00,-50.08,"Listing hero, long-term flop"
+"Brainbees Solutions Ltd.",2024,46.04,-52.77,"Listing hero, long-term flop"
+"ECOS (India) Mobility & Hospitality Ltd.",2024,32.68,-62.22,"Listing hero, long-term flop"
+"Vishnu Prakash R.Punglia Ltd.",2023,47.17,-67.08,"Listing hero, long-term flop"
+"FSN E-Commerce Ventures Ltd.",2021,96.07,-76.23,"Listing hero, long-term flop"
+"Dreamfolks Services Ltd.",2022,41.84,-77.56,"Listing hero, long-term flop"
+"Mazagon Dock Shipbuilders Ltd.",2020,18.59,3272.76,"Quiet listing, long-term compounder"
+"Data Patterns (India) Ltd.",2021,29.06,617.01,"Quiet listing, long-term compounder"
+"Craftsman Automation Ltd.",2021,-3.65,516.59,"Quiet listing, long-term compounder"
+"Kaynes Technology India Ltd.",2022,17.54,443.65,"Quiet listing, long-term compounder"
+"Krishna Institute of Medical Sciences Ltd.",2021,20.84,363.45,"Quiet listing, long-term compounder"
+"Venus Pipes & Tubes Ltd.",2022,8.70,351.70,"Quiet listing, long-term compounder"
+"Azad Engineering Ltd.",2023,29.29,320.54,"Quiet listing, long-term compounder"
+"Prudent Corporate Advisory Services Ltd.",2022,-10.83,316.83,"Quiet listing, long-term compounder"
+"Kalyan Jewellers India Ltd.",2021,-13.56,316.32,"Quiet listing, long-term compounder"
+"Sansera Engineering Ltd.",2021,10.02,293.37,"Quiet listing, long-term compounder"
+"Avalon Technologies Ltd.",2023,-8.72,276.32,"Quiet listing, long-term compounder"
+"Indian Railway Finance Corp.Ltd.",2021,-4.62,269.54,"Quiet listing, long-term compounder"
+"S.J.S.Enterprises Ltd.",2021,-5.87,267.54,"Quiet listing, long-term compounder"
+"Global Health Ltd.",2022,23.60,266.04,"Quiet listing, long-term compounder"
+"Likhitha Infrastructure Ltd.",2020,13.75,243.58,"Quiet listing, long-term compounder"
+"RailTel Corp.of India Ltd.",2021,29.10,234.47,"Quiet listing, long-term compounder"
+"Shyam Metalics & Energy Ltd.",2021,22.92,227.60,"Quiet listing, long-term compounder"
+"Anand Rathi Wealth Ltd.",2021,6.10,218.47,"Quiet listing, long-term compounder"
+"Ather Energy Ltd.",2025,-5.83,207.85,"Quiet listing, long-term compounder"
+"Paradeep Phosphates Ltd.",2022,4.52,200.12,"Quiet listing, long-term compounder"
+"Atlanta Electricals Ltd.",2025,9.20,185.39,"Quiet listing, long-term compounder"
+"Ethos Ltd.",2022,-8.53,170.44,"Quiet listing, long-term compounder"
+"Yatharth Hospital & Trauma Care Services Ltd.",2023,11.28,169.37,"Quiet listing, long-term compounder"
+"Rubicon Research Ltd.",2025,29.53,167.36,"Quiet listing, long-term compounder"
+"Inox Green Energy Services Ltd.",2022,-9.08,159.85,"Quiet listing, long-term compounder"
+"Vijaya Diagnostic Centre Ltd.",2021,16.78,156.08,"Quiet listing, long-term compounder"
+"Rainbow Children's Medicare Ltd.",2022,-16.94,149.27,"Quiet listing, long-term compounder"
+"Anupam Rasayan India Ltd.",2021,-5.08,141.90,"Quiet listing, long-term compounder"
+"Quality Power Electrical Equipments Ltd.",2025,-8.73,140.18,"Quiet listing, long-term compounder"
+"Belrise Industries Ltd.",2025,8.23,139.83,"Quiet listing, long-term compounder"
+"SRM Contractors Ltd.",2024,7.62,133.86,"Quiet listing, long-term compounder"
+"KFin Technologies Ltd.",2022,-0.59,133.16,"Quiet listing, long-term compounder"
+"Equitas Small Finance Bank Ltd.",2020,-0.61,120.15,"Quiet listing, long-term compounder"
+"Senco Gold Ltd.",2023,27.85,117.32,"Quiet listing, long-term compounder"
+"Bikaji Foods International Ltd.",2022,5.82,114.78,"Quiet listing, long-term compounder"
+"R R Kabel Ltd.",2023,15.75,114.63,"Quiet listing, long-term compounder"
+"KSH International Ltd.",2025,-7.55,114.38,"Quiet listing, long-term compounder"
+"Signatureglobal (India) Ltd.",2023,19.10,111.35,"Quiet listing, long-term compounder"
+"Sona BLW Precision Forgings Ltd.",2021,24.12,106.49,"Quiet listing, long-term compounder"
+"Metro Brands Ltd.",2021,-1.33,106.48,"Quiet listing, long-term compounder"
+"Home First Finance Co.India Ltd.",2021,1.84,104.36,"Quiet listing, long-term compounder"
+"Allied Blenders & Distillers Ltd.",2024,13.13,103.42,"Quiet listing, long-term compounder"
