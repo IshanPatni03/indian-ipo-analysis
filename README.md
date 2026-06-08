@@ -8,7 +8,7 @@ performance of 367 Indian mainboard IPOs listed between 2020 and 2025.
 - **Data Collection:** IPOCentral.in, Chittorgarh.com
 - **Data Cleaning:** Python (pandas), Excel
 - **Database:** MySQL
-- **Visualisation:** Power BI (in progress)
+- **Visualisation:** Power BI
 
 ## Key Findings
 - Average listing day return across 367 IPOs: **24.1%**
@@ -25,5 +25,3 @@ performance of 367 Indian mainboard IPOs listed between 2020 and 2025.
 - 367 mainboard IPOs (excludes SME, REITs, InvITs, FPOs)
 - Sources: IPOCentral.in, Chittorgarh.com Performance Tracker
 - Price data as of June 4, 2026
-
-## Repository Structure
